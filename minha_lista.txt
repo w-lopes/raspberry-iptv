@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="PainelIPTVGratis.com", PainelIPTVGratis.com - Lista Gerada Gratuitamente
+https://paineliptvgratis.com/intro.mp4
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tvseriesfinale.com/wp-content/uploads/2015/11/fox14.png" group-title="Categorias", Fox (www.redecanais.com)
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/chunklist_w485269247.m3u8
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", FOX
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/uPvJzrz.png" group-title="Categorias", Investigation Discovery [HD]
+https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/oi67.tinypic.com/2m4ss2f.jpg" group-title="Categorias", DISCOVERY CHANNEL
+http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_f1tv_b1096000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.tvmagazine.com.br/imagens/icones/600/universalchannelb.png" group-title="Categorias", Universal Channel (www.redecanais.com)
+http://tv.ec.cx:1935/redecanais-stream-universal/myStream/chunklist_w1791554469.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/74x9qj9ml/UNIVERSAL.png" group-title="Categorias", Universal Channel
+http://tv.ec.cx:1935/redecanais-stream-universal/myStream/playlist.m3u8?MIKADASERVAS
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/La7oRU" group-title="Categorias", UNIVERSAL CHANNEL
+http://tv.ec.cx:1935/redecanais-stream-universal/myStream/chunklist_w135200949.m3u8?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/iptv.gratis/imagens/upload/materias/1896a88a166512d0d19d3414ba268ab9.png" group-title="Categorias", Universal Channel
+http://tv.ec.cx:1935/redecanais-stream-universal/myStream/chunklist_w1777124272.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/lFzs7cI.jpg" group-title="Categorias", MTV
+http://live.tvplayerlatino.com/streaming/src1/hzHHE?238e82&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/p2c8bPp.png" group-title="Categorias", MTV LIVE
+http://189.216.247.113/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/ragnaroktv.com/logostv/musica/2.png" group-title="Categorias", MTV Live HD
+http://ragnaroktv.com/hls/2/src2/4/7/MTV_Live_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/ragnaroktv.com/logostv/musica/4.png" group-title="Categorias", MTV HD
+http://ragnaroktv.com/hls/2/src2/4/7/MTV_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", Multishow
+http://painel.iptvmove.com:25461/live/diego2501/diego2501/1290.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/yYmGNnQ.png" group-title="Categorias", Multishow HD
+http://painel.iptvmove.com:25461/live/Carsilva/123456/1383.ts
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", Multishow HD
+http://painel.iptvmove.com:25461/live/diego2501/diego2501/1383.ts
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", MULTISHOW
+http://maia.tvcast.stream/hls/multishow_5f573b82.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/ragnaroktv.com/logostv/infantiles/2.png" group-title="Categorias", Cartoon Network
+http://ragnaroktv.com/hls/2/src3/4/8/Cartoon_Network.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/jjsijgj8t/og_Logo.png" group-title="Categorias", CARTOON NETWORK
+http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/S5PsDDR.png" group-title="Categorias", Cartoon Network HD
+http://painel.iptvmove.com:25461/live/Carsilva/123456/2257.ts
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", GNT
+http://painel.iptvmove.com:25461/live/renato12/renato12/1309.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/a4pnqAH.png" group-title="Categorias", GNT
+http://painel.iptvmove.com:25461/live/Carsilva/123456/1309.ts
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", GNT HD
+http://painel.iptvmove.com:25461/live/renato12/renato12/1393.ts
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", GNT HD
+http://painel.iptvmove.com:25461/live/diego2501/diego2501/1393.ts
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", Warner Channel HD
+http://m3u.iptvla.xyz/usuarios/src1/WarnerChannelHD/Fanstv/uC2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/iptv.gratis/imagens/upload/materias/382163e6ac24092661bcd7625ea10ec9.jpg" group-title="Categorias", WARNER CHANNEL
+http://lista.digitalgroup.me:80/live/car20016/20016/2478.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/xvZ66AU.png" group-title="Categorias", Warner Channel
+http://painel.iptvmove.com:25461/live/Carsilva/123456/1227.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/xvZ66AU.png" group-title="Categorias", Warner Channel HD
+http://painel.iptvmove.com:25461/live/Carsilva/123456/1355.ts
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", Telecine Action
+http://144.217.254.99:25461/live/deley/deley/1247.m3u8
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", Telecine Fun
+http://144.217.254.99:25461/live/deley/deley/1245.m3u8
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", Telecine Premium
+http://144.217.254.99:25461/live/deley/deley/1243.m3u8
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", Telecine Touch
+http://144.217.254.99:25461/live/deley/deley/1242.m3u8
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", Telecine Cult
+http://144.217.254.99:25461/live/deley/deley/1246.m3u8
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", Telecine Pipoca
+http://144.217.254.99:25461/live/deley/deley/1244.m3u8
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", Comedy Central HD
+http://m3u.iptvla.xyz/usuarios/src1/ComedyCentralHD/Fanstv/uC2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.totalplay.com.mx/images/logos/canales/can_hd/32.png" group-title="Categorias", Comedy Central
+http://iptvmexico.xyz/chavez/284.m3u8?COMEDY_CENTRAL_HD
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/0956PZG.png" group-title="Categorias", Comedy Central
+http://painel.iptvmove.com:25461/live/Carsilva/123456/1336.ts
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", Comedy Central
+http://painel.iptvmove.com:25461/live/diego2501/diego2501/1336.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/puu.sh/msJjE/f96602e474.png" group-title="Categorias", NatGeo
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/QouD1hh.png" group-title="Categorias", NatGeo Wild
+http://painel.iptvmove.com:25461/live/Carsilva/123456/1288.ts
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", NatGeoWild HD
+http://painel.iptvmove.com:25461/live/diego2501/diego2501/1382.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Categorias", NatGeo Kids
+http://painel.iptvmove.com:25461/live/Carsilva/123456/1810.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/3.bp.blogspot.com/-YU6tpGgbodw/WVr42oxkkWI/AAAAAAAACXo/OjSf27YJiZ4szRUhrSmuXUC6eo7Tpc3HACLcBGAs/s640/18881845_1689128821389050_7148178865498555867_n.png" group-title="Categorias", NatGeo Kids
+http://200.78.215.85:8010/play/a0at
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/ragnaroktv.com/logostv/cultura/7.png" group-title="Categorias", NATIONAL GEOGRAPHIC
+http://ragnaroktv.com/hls/2/src2/4/8/NAT_GEO.m3u8
+
